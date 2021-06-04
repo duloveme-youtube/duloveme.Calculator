@@ -145,7 +145,7 @@ namespace duloveme.Calculator
             this.btnBackspace.Name = "btnBackspace";
             this.btnBackspace.Size = new System.Drawing.Size(68, 58);
             this.btnBackspace.TabIndex = 28;
-            this.btnBackspace.Text = "<=";
+            this.btnBackspace.Text = "BS";
             this.btnBackspace.UseVisualStyleBackColor = false;
             this.btnBackspace.Click += new System.EventHandler(this.btnBackspace_Click);
             // 
