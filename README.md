@@ -1,2 +1,2 @@
-# duloveme.Calculator
+# 계산기
 유튜브 계산기 소스
