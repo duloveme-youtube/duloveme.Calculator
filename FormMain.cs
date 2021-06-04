@@ -1,13 +1,4 @@
-﻿/********************************************************************
-	created:	2021/06/04
-	created:	4:6:2021   10:52
-	file base:	FormMain
-	file ext:	cs
-	author:		duloveme@gmail.com
-	
-	purpose:	
-*********************************************************************/
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
